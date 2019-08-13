@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559670688 source:c:\users\laboratorios\desktop\tptelemetria\telemetria\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559680612 source:e:\2019-c1\tptelemetria\telemetria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
